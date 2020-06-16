@@ -1,6 +1,14 @@
 # education
 Education for humans
 
+How salary can be increased. From where does the money come
+
+How wealth is created
+
+What is sustainable wealth creation
+
+What is bank
+
 
 ## Dash wallet (Financial) (Notes-1)
 
