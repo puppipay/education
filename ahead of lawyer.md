@@ -1,4 +1,4 @@
-We should always be ahead of our lawyer
+##### We should always be ahead of our lawyer
 - In information and
 - Preparation
 
@@ -8,7 +8,7 @@ They expect to get unlimited credit with limited contribution
 
 There exists nothing called justice, unless you know law.
 
-In my case
+##### In my case
 
 -> Patent attorney kept asking money, even after i paid about 1000USD
 
@@ -16,7 +16,7 @@ In my case
 
 -> Now he is complying
 
-I had already prepared
+##### I had already prepared
 
 -> Breach of contract laws
 
@@ -24,11 +24,11 @@ I had already prepared
 
 -> If he did that, i will invoke breach of contract
 
-If the lawyer does not comply to client instructions
+##### If the lawyer does not comply to client instructions
 
 - I will invoke form-F in patent act -> second schedule
 
-Preparation always helps
+##### Preparation always helps
 
 -> In dealing with lawyers
 
