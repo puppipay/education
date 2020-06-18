@@ -35,9 +35,11 @@ Preparation always helps
 -> Then you get confidence
 
 
-Example of information to give
-Example of how to inform your patent attorney of
+#### Example of information to give
+- Example of how to inform your patent attorney of
+
 Applicable laws
+
 ```
 PATENTS (PATENT AGENTS) RULES 2001
 5th schedule, Rule 15A
