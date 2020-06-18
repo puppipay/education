@@ -1,4 +1,5 @@
-##### We should always be ahead of our lawyer
+#### We should always be ahead of our lawyer
+
 - In information and
 - Preparation
 
@@ -48,6 +49,7 @@ PATENTS (PATENT AGENTS) RULES 2001
 ##### Code of conduct of patent agents
 
 A) Maintenance of professional standards
+
 Para- 5
 ```
 -> (3) A relevant patent agent shall not be fraudulent or deceitful.
@@ -55,6 +57,7 @@ Para- 5
 ```
 
 B) Acting in client’s interests
+
 Para- 9
 ```
 (1) A relevant patent agent shall at all times act in accordance with the law and in the interests of his client.
@@ -69,6 +72,7 @@ Para- 9
 
 For request B1, 
 - Para-9 item-1, item-2 applicable
+
 For request B2, 
 - Para-9, item-4 applicable
 
