@@ -36,7 +36,7 @@ SEC law
 
 Stock market/Crypto market
 
-US economy collpase
+US economy collapse
 
 #### Chapter-4
 
