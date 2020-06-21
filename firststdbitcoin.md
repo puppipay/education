@@ -3,7 +3,7 @@
 
 A 360 degree view of money
 
-These cover concepts behind money and value. Knowing this prevents us from going in wrong directions. Prevents use being misled. Prevents us from violating laws.
+These cover concepts behind money and value. Knowing this prevents us from going in wrong directions. Prevents us being misled. Prevents us from violating laws.
 
 Typical things we see in market are traps (like free money, easy money etc).
 
@@ -29,34 +29,52 @@ So we need to understand what it means my
 
 #### Chapter-2
 
-What is bitcoin
+Basics of bitcoin
 
+- What is bitcoin
 
-Maths of bitcoin
+- Maths of bitcoin
 
-Hyphes/Facts of bitcoin
+- Hypes/Facts of bitcoin
 
-Wealth (legal/illegal) bitcoin
+- Wealth (legal/illegal) bitcoin
 
-Wealth (good/bad) bitcoin
+- Wealth (good/bad) bitcoin
 
-#### Chapter-3
+#### Chapter-3 
 
-SEC law
+Capitalization, how it works
 
-Stock market/Crypto market
+- Working of East india company
+- Open source capitalization like redhat, perl
+- How wealth is created in above
+- Capitalization in Bitcoin
+- Early movers, late movers
+- DAO, DAC and its games
+- Review what is money
 
-US economy collapse
 
 #### Chapter-4
 
-Job creation
+The laws of USA will be reviewed
 
-Benefits
+- SEC law
+- US economy collapse
+- How SEC laws helped recovery of economy
+- How it created wealth
+- How similar benefits can come from crypto
+- Its limitations
+- Stock market/Crypto market
 
-Problems
+#### Chapter-4
 
-How law works
+- Job creation
+
+- Benefits
+
+- Problems
+
+- How laws works
 
 What may be right/wrong
 
