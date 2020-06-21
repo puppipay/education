@@ -46,11 +46,17 @@ Basics of bitcoin
 Capitalization, how it works
 
 - Working of East india company
+
 - Open source capitalization like redhat, perl
+
 - How wealth is created in above
+
 - Capitalization in Bitcoin
+
 - Early movers, late movers
+
 - DAO, DAC and its games
+
 - Review what is money
 
 
@@ -59,11 +65,17 @@ Capitalization, how it works
 The laws of USA will be reviewed
 
 - SEC law
+
 - US economy collapse
+
 - How SEC laws helped recovery of economy
+
 - How it created wealth
+
 - How similar benefits can come from crypto
+
 - Its limitations
+
 - Stock market/Crypto market
 
 #### Chapter-4
@@ -73,15 +85,20 @@ What is meant by disrupting. Why it is important to know this.
 - Disrupting technologies
 
 - How it works
+
 - When it created benefits
+
 - When it destroys benefits
+
 - The games of disrupting technologies
+
 - How laws work in DAO, DAC with disrupting technolgies
+
 - Review of bitcoin
 
 #### Chapter-5
 
-In ligth of above review 
+In light of above review 
 
 - Job creation
 
@@ -89,11 +106,35 @@ In ligth of above review
 
 - Problems
 
-- How laws works
+- How laws work
 
 - What may be right/wrong
 
 #### Chapter-6
+
+Common mans view. Where is he placed
+
+- What a common man things and does
+
+- What players of economy do
+
+#### Chapter-7
+
+Monitization, wealth creation using 
+
+- Privacy law
+
+- GDPR law
+
+- Open source law
+
+- Patent law
+
+- Market creation 
+
+- Crypto coins
+
+#### Chapter-8
 
 Find your place in the system
 
