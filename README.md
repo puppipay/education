@@ -66,6 +66,9 @@ so on
 |3. Is bitcoin legal/illegal | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 |3. What is legal lie, bad lie, good lie | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 |3. What is legal truth, bad truth, good truth | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. How to make lot of money legally/illegally | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. How to make lot of money good way/bad way | How to make money legal/illegal  | Pay in advance | 5000 Rs|
+|3. How to make lot of money legally/illegally | How to make money legal/illegal  | Pay in advance 
+|3. How to make lot of money good way/bad way | How to make money legal/illegal  | Pay in advance |
 |3. Is banks legal/illegal | How to make money legal/illegal  | Pay in advance | 5000 Rs|
+|3. In bitcoin nobody is working, but making money | Is it proper  | Attend 1, 2 |
+|3. They call bitcoin mining, is it not misleading | Should it be called minting? | Attend 1 | 
+|3. Can i launch my own coin. Easy money. | Is it Legal/illegal, proper/improper, variatons  | Attend 1,2 | 
