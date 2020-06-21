@@ -1,14 +1,46 @@
-# education
-Education for humans
+#### Education
 
-How salary can be increased. From where does the money come
+Education is needed for us to live properly using known "knowledge". 
 
-How wealth is created
+- Some of these are encoded as laws
 
-What is sustainable wealth creation
+- Some of these are encoded as best practices
 
-What is bank
+- Some of these are encoded as beliefs and practices
 
+- Some are left to freedom of individual
+
+- Some of applicable for communities, systems and nations
+
+
+#### Absence of education
+
+- Improper use of system
+
+- Resulting in harm and damages to various parties
+
+#### Wrong use of education
+
+- Results in improper use of system
+
+- Resulting in harm and damages to various parties
+
+- Expected gains won't come
+
+
+#### Education for humans
+
+Review of various factors/doubts we face as humans
+
+- How salary can be increased. From where does the money come
+
+- How wealth is created
+
+- What is sustainable wealth creation
+
+- What is bank
+
+so on
 
 ## Dash wallet (Financial) (Notes-1)
 
