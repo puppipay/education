@@ -42,11 +42,21 @@ Review of various factors/doubts we face as humans
 
 so on
 
-#### Education material (Notes-1)
+#### Education material
 
 | Product   |   Prereq |   Terms     |  Price |
 |---------- |:-------------:|:-------------:|------:|
 |1. Bitcoin/crypto | Curious how money is created  | Pay only if you learn/is-useful| 5000 Rs|
 |2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay only if you learn/is-useful| 5000 Rs|
 |3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|
+
+
+#### Reading material
+
+| Product   |   Prereq |   Terms     |  Price |
+|---------- |:-------------:|:-------------:|------:|
+|1. Bitcoin/crypto | Curious how money is created  | Pay only if you learn/is-useful| 5000 Rs|
+|2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay only if you learn/is-useful| 5000 Rs|
+|3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
+
+
