@@ -68,6 +68,21 @@ The laws of USA will be reviewed
 
 #### Chapter-4
 
+What is meant by disrupting. Why it is important to know this.
+
+- Disrupting technologies
+
+- How it works
+- When it created benefits
+- When it destroys benefits
+- The games of disrupting technologies
+- How laws work in DAO, DAC with disrupting technolgies
+- Review of bitcoin
+
+#### Chapter-5
+
+In ligth of above review 
+
 - Job creation
 
 - Benefits
@@ -76,14 +91,16 @@ The laws of USA will be reviewed
 
 - How laws works
 
-What may be right/wrong
+- What may be right/wrong
 
-#### Chapter-5
+#### Chapter-6
 
-What you can do
+Find your place in the system
 
-What others are doing
+- What you can do
 
-The game
+- What others are doing
+
+- The game
 
 
