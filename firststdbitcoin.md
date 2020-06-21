@@ -1,21 +1,31 @@
 
 #### Chapter-1
 
-I want free money
+A 360 degree view of money
 
-I want money without working
+These cover concepts behind money and value. Knowing this prevents us from going in wrong directions. Prevents use being misled. Prevents us from violating laws.
 
-I want easy money
+Typical things we see in market are traps (like free money, easy money etc).
 
-I want legal money
+Few things create value, few things have value, few things are legal.
 
-I don't mind any money
+So we need to understand what it means my
 
-I want money by drugs, clubs, dances
+- I want free money
 
-I want money by gambling, stocks, trade
+- I want money without working
 
-I want bitcoin
+- I want easy money
+
+- I want legal money
+
+- I don't mind any money
+
+- I want money by drugs, clubs, dances
+
+- I want money by gambling, stocks, trade
+
+- I want bitcoin
 
 #### Chapter-2
 
