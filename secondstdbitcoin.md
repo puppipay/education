@@ -1,45 +1,88 @@
 ##### Chapter 1
-Blockchain
+Basics of Bitcoin, Blockchain
 
-Mining
+- Blockchain
 
-Confusing
+- Mining
 
-Value
+- Bitcoin 
 
-Reward
+- Value of coin
 
-Scripts
+- Other values of bitcoin/system
+
+- Rewards to players/miners
+
+- Scripts of bitcoin
+
+- Public-key/Private-key
+
+- Cryptography
+
+- Verifying the identity
+
+- Signing a transaction
 
 ##### Chapter 2
+Review of value creation in bitcoin ecosystem
 
-Wallets
+- The logic of self managing system (DAO)
 
-Miner
+- Why investors rushed to bitcoin
 
-Market games
+- Market capitalization
 
-Legal games
+- Supply/demand
+
 
 ##### Chapter 3
-Creating wallet
 
-Using wallet
+- What are wallets, how they work
 
-Testnet
+- What do miners do
 
-Livenet
+- Various type of wallets
 
-Sending
+- Various type of miners
 
-Receiving
+- Market games
+
+- Legal games
 
 ##### Chapter 4
+Examples of 
 
-Exchanges
+- Creating wallet
 
-Value created as per SEC laws ?
+- Using wallet
 
-What value is created?
+- Your private-key, public-key
 
-Is this sustainable
+- Your transaction
+
+- Your money transfer
+
+- Testnet
+
+- Livenet
+
+- Sending bitcoin
+
+- Receiving bitcoin
+
+##### Chapter 5
+
+Knowing players in the system
+
+- Crypto Exchanges
+
+- Value created as per SEC laws ?
+
+- What value is created?
+
+- Is the value sustainable
+
+- Limits and roles of SEC
+
+
+
