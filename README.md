@@ -42,12 +42,11 @@ Review of various factors/doubts we face as humans
 
 so on
 
-## Dash wallet (Financial) (Notes-1)
+#### Education material (Notes-1)
 
-| Product   |     Try and Buy     |  Price |
-|----------|:-------------:|------:|
-|1. Dash wallet |  try and buy| 5000 Rs|
-|2. Exchange integration |    on payment   |   5000 Rs |
-|3. Dash reversible on mobile | try and buy |    5000 Rs |
-|4. Dash reversible on server | on payment |    5000 Rs |
-|5. Greet and Gift sample | try and buy |    5000 Rs |
+| Product   |   Prereq |   Terms     |  Price |
+|---------- |:-------------:|:-------------:|------:|
+|1. Bitcoin/crypto | Curious how money is created  | Pay only if you learn/is-useful| 5000 Rs|
+|2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay only if you learn/is-useful| 5000 Rs|
+|3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
+|
