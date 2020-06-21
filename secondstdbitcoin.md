@@ -1,3 +1,6 @@
+This is second standard bitcoin class
+
+
 ##### Chapter 1
 Basics of Bitcoin, Blockchain
 
