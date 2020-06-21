@@ -114,9 +114,9 @@ In light of above review
 
 Common mans view. Where is he placed
 
-- What a common man things and does
+- What a common man(salary, traders, workers) thinks and does
 
-- What players of economy do
+- What market creators in economy do
 
 #### Chapter-7
 
