@@ -63,7 +63,7 @@ so on
 
 | Question   |   Context |   Answer |
 |---------- |:-------------:|:------------|
-|1. What are various types of money | Curious how money is created  |  Attend 1,3|
+|1. What are various types of money? | Curious how money is created  |  Attend 1,3|
 |2. Why truth-full cannot earn more money? | We will analyze USA, India to know | Attend 1,3|
 |3. Is telling lies good for economy? | We will analyze USA, India to know | Attend 1,3|
 |4. Is disruption good for you?  | We will analyze USA, India to know | Attend 1,3|
@@ -71,12 +71,13 @@ so on
 |6. Can i earn unlimited money?  | We will do analysis  | Attend 1,3|
 |7. Is Banks good or bad? | Why good, Why bad?  | Attend 1, 3|
 |8. Is banks legal/illegal? | Why legal, Why illegal?  | Attend 1, 3|
-|9. Is bitcoin legal/illegal | Why legal, Why illegal?  | Attend 1|
-|10. What is legal lie, bad lie, good lie | Understand how lies are used  | Attend 1,3 |
-|11. What is legal truth, bad truth, good truth | Understand limitations of truth/lie  |Attend 1,3|
-|12. How to make lot of money legally/illegally | What are various legal/illegal methods | Attend 1, 3 | 
-|13. How to make lot of money good way/bad way | What are various good/bad methods  | Attend 1 |
-|14. In bitcoin nobody is working, but making money | Is it proper?  | Attend 1, 2, 3 |
-|15. They call bitcoin mining, is it not misleading | We will discuss | Attend 1,2,3| 
-|16. Can i launch my own coin. Easy money. | Is it Legal/illegal?, proper/improper?, variatons?  | Attend 1,2 |
+|9. Is bitcoin legal/illegal? | Why legal, Why illegal?  | Attend 1|
+|10. What is legal lie, bad lie, good lie? | Understand how truth/lies are used?  | Attend 1,3 |
+|11. What is legal truth, bad truth, good truth? | Understand limitations of truth/lie  |Attend 1,3|
+|12. How to make lot of money legally/illegally? | What are various legal/illegal methods? | Attend 1, 3 | 
+|13. How to make lot of money good way/bad way? | What are various good/bad methods ? | Attend 1 |
+|14. In bitcoin nobody is working, but are making money. | Is it proper?  | Attend 1, 2, 3 |
+|15. They call bitcoin mining, is it not misleading? | We will discuss | Attend 1,2,3| 
+|16. Can i launch my own coin? Easy money | Is it Legal/illegal?, proper/improper?, variatons?  | Attend 1,2 |
 |17. I want to issue tokens on Blockchain. | You will learn issuing SLP tokens  | Attend 1,4 |
+|18. Bitcoin trading, owning, using | What is the difference?  | Attend 1,4 |
