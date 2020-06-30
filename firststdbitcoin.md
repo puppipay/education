@@ -1,5 +1,7 @@
 This is first standard bitcoin class
 
+Duration:- 5 Hrs
+
 #### Chapter-1
 
 A 360 degree view of money
