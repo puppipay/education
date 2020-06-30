@@ -63,12 +63,12 @@ so on
 
 | Question   |   Context |   Answer |
 |---------- |:-------------:|:------------|
-|1. Why truth-full earn less | Curious how money is created  |  Attend 1|
-|2. Why truth-full cannot earn more money | How to make money legal/illegal  | Attend 1|
-|3. Is telling lies good for economy | How to make money legal/illegal  | Attend 1|
-|4. Is disruption good for you  | How to make money legal/illegal  | Attend 1|
-|5. Is disruption good for economy  | How to make money legal/illegal  | Attend 1|
-|6. Can i earn unlimited money  | How to make money legal/illegal  | Attend 1|
+|1. What are various types of money | Curious how money is created  |  Attend 1,3|
+|2. Why truth-full cannot earn more money? | We will analyze USA, India to know | Attend 1,3|
+|3. Is telling lies good for economy? | We will analyze USA, India to know | Attend 1,3|
+|4. Is disruption good for you?  | We will analyze USA, India to know | Attend 1,3|
+|5. Is disruption good for economy?  | We will analyze USA, India to know | Attend 1,3|
+|6. Can i earn unlimited money?  | We will do analysis  | Attend 1,3|
 |7. Is Banks good or bad? | Why good, Why bad?  | Attend 1, 3|
 |8. Is banks legal/illegal? | Why legal, Why illegal?  | Attend 1, 3|
 |9. Is bitcoin legal/illegal | Why legal, Why illegal?  | Attend 1|
