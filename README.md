@@ -52,9 +52,9 @@ so on
 
 #### 6. Education material
 
-| Product   |   Prereq |   Terms     |  Price |
+| Product   |   Prereq |   Contents     |  Price |
 |---------- |:-------------:|:-------------:|------:|
-|1. Bitcoin/crypto | Curious how money is created  | Pay in advance| 5000 Rs|
+|1. Bitcoin/crypto | Curious how money is created  | [Contents](firststdbitcoin.md)| 5000 Rs|
 |2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay in advance| 5000 Rs|
 |3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 |4. Bitcoin cash, SLP|  Issuing tokens  | Pay in advance | 5000 Rs|
