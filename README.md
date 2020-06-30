@@ -56,8 +56,8 @@ so on
 |---------- |:-------------:|:-------------:|------:|
 |1. Bitcoin/crypto | Curious how money is created  | [Contents](firststdbitcoin.md)| 5000 Rs|
 |2. Bitcoin/crypto programming | After 1, Javascript skills needed  | [Contents](secondstdbitcoin.md) | 5000 Rs|
-|3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Will be provided | 5000 Rs|
-|4. Bitcoin cash, SLP|  Issuing tokens  | Will be provided | 5000 Rs|
+|3. Economic disruptions/hurricanes/securities-laws | To know how to play game. | Will be provided | 5000 Rs|
+|4. Bitcoin cash, SLP|  To learn issuing tokens  | Will be provided | 5000 Rs|
 
 #### 7. Questions you may have and its corresponding education
 
