@@ -61,7 +61,7 @@ so on
 
 #### 7. Questions you may have and its corresponding education
 
-| Question   |   Prereq |   Answer |
+| Question   |   Context |   Answer |
 |---------- |:-------------:|:------------|
 |1. Why truth-full earn less | Curious how money is created  |  Attend 1|
 |2. Why truth-full cannot earn more money | How to make money legal/illegal  | Attend 1|
@@ -73,10 +73,10 @@ so on
 |8. Is banks legal/illegal? | Why legal, Why illegal?  | Attend 1|
 |9. Is bitcoin legal/illegal | Why legal, Why illegal?  | Attend 1|
 |10. What is legal lie, bad lie, good lie | Understand how lies are used  | Attend 1|
-|10. What is legal truth, bad truth, good truth | Understand limitations of truth/lie  |Attend 1|
-|11. How to make lot of money legally/illegally | What are various legal/illegal methods | Attend 1 | 
-|12. How to make lot of money good way/bad way | What are various good/bad methods  | Attend 1 |
-|13. --- | --  | --|
+|11. What is legal truth, bad truth, good truth | Understand limitations of truth/lie  |Attend 1|
+|12. How to make lot of money legally/illegally | What are various legal/illegal methods | Attend 1 | 
+|13. How to make lot of money good way/bad way | What are various good/bad methods  | Attend 1 |
 |14. In bitcoin nobody is working, but making money | Is it proper?  | Attend 1, 2 |
 |15. They call bitcoin mining, is it not misleading | We will discuss | Attend 1 | 
-|16. Can i launch my own coin. Easy money. | Is it Legal/illegal?, proper/improper?, variatons?  | Attend 1,2 | 
+|16. Can i launch my own coin. Easy money. | Is it Legal/illegal?, proper/improper?, variatons?  | Attend 1,2 |
+|17. I want to issue tokens on Blockchain. | You will learn issuing SLP tokens  | Attend 1,3 |
