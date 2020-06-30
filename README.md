@@ -54,8 +54,8 @@ so on
 
 | Product   |   Prereq |   Terms     |  Price |
 |---------- |:-------------:|:-------------:|------:|
-|1. Bitcoin/crypto | Curious how money is created  | Pay only if you learn/is-useful| 5000 Rs|
-|2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay only if you learn/is-useful| 5000 Rs|
+|1. Bitcoin/crypto | Curious how money is created  | Pay in advance| 5000 Rs|
+|2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay in advance| 5000 Rs|
 |3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 
 
@@ -63,7 +63,7 @@ so on
 
 | Question   |   Prereq |   Terms     |  Price |
 |---------- |:-------------:|:-------------:|------:|
-|1. Why truth-full earn less | Curious how money is created  | Pay only if you learn/is-useful| 5000 Rs|
+|1. Why truth-full earn less | Curious how money is created  | Pay in advance| 5000 Rs|
 |3. Why truth-full cannot earn more money | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 |3. Is telling lies good for economy | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 |3. Is disruption good for you  | How to make money legal/illegal  | Pay in advance | 5000 Rs|
