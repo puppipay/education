@@ -12,13 +12,13 @@ Education is needed for us to live properly using known "knowledge".
 
 - Some of applicable for communities, systems and nations
 
-#### Education
+#### Relevance of education?
 
-- What the world is giving you. 
+- What the world is giving you? 
 
-- What the world expects from you
+- What the world expects from you?
 
-- How is education aligned to this
+- How is education aligned to this?
 
 
 #### Absence of education
