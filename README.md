@@ -55,9 +55,9 @@ so on
 | Product   |   Prereq |   Contents     |  Price |
 |---------- |:-------------:|:-------------:|------:|
 |1. Bitcoin/crypto | Curious how money is created  | [Contents](firststdbitcoin.md)| 5000 Rs|
-|2. Bitcoin/crypto programming | After 1, Javascript skills needed  | Pay in advance| 5000 Rs|
-|3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|4. Bitcoin cash, SLP|  Issuing tokens  | Pay in advance | 5000 Rs|
+|2. Bitcoin/crypto programming | After 1, Javascript skills needed  | [Contents](secondstdbitcoin.md) | 5000 Rs|
+|3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Will be provided | 5000 Rs|
+|4. Bitcoin cash, SLP|  Issuing tokens  | Will be provided | 5000 Rs|
 
 #### 7. Questions you may have and its corresponding education
 
