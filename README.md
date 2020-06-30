@@ -1,4 +1,4 @@
-#### Education
+#### 1. Education
 
 Education is needed for us to live properly using known "knowledge". 
 
@@ -12,7 +12,7 @@ Education is needed for us to live properly using known "knowledge".
 
 - Some of applicable for communities, systems and nations
 
-#### Relevance of education?
+#### 2. Relevance of education?
 
 - What the world is giving you? 
 
@@ -21,13 +21,13 @@ Education is needed for us to live properly using known "knowledge".
 - How is education aligned to this?
 
 
-#### Absence of education
+#### 3. Absence of education
 
 - Improper use of system
 
 - Resulting in harm and damages to various parties
 
-#### Wrong use of education
+#### 4. Wrong use of education
 
 - Results in improper use of system
 
@@ -36,7 +36,7 @@ Education is needed for us to live properly using known "knowledge".
 - Expected gains won't come
 
 
-#### Education for humans
+#### 5. Education for humans
 
 Review of various factors/doubts we face as humans
 
@@ -61,22 +61,22 @@ so on
 
 #### Questions and it corresponding education
 
-| Question   |   Prereq |   Terms     |  Price |
+| Question   |   Prereq |   Answer |
 |---------- |:-------------:|:-------------:|------:|
-|1. Why truth-full earn less | Curious how money is created  | Pay in advance| 5000 Rs|
-|3. Why truth-full cannot earn more money | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. Is telling lies good for economy | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. Is disruption good for you  | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. Is disruption good for economy  | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. Can i earn unlimited money  | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|2. Is Banks good or bad | After 1, Javascript skills needed  | Pay only if you learn/is-useful| 5000 Rs|
-|3. Is banks legal/illegal | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. Is bitcoin legal/illegal | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. What is legal lie, bad lie, good lie | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. What is legal truth, bad truth, good truth | How to make money legal/illegal  | Pay in advance | 5000 Rs|
-|3. How to make lot of money legally/illegally | How to make money legal/illegal  | Pay in advance 
-|3. How to make lot of money good way/bad way | How to make money legal/illegal  | Pay in advance |
-|3. Is banks legal/illegal | How to make money legal/illegal  | Pay in advance | 5000 Rs|
+|1. Why truth-full earn less | Curious how money is created  |  Attend 1|
+|2. Why truth-full cannot earn more money | How to make money legal/illegal  | Attend 1|
+|3. Is telling lies good for economy | How to make money legal/illegal  | Attend 1|
+|4. Is disruption good for you  | How to make money legal/illegal  | Attend 1|
+|5. Is disruption good for economy  | How to make money legal/illegal  | Attend 1|
+|6. Can i earn unlimited money  | How to make money legal/illegal  | Attend 1|
+|7. Is Banks good or bad | After 1, Javascript skills needed  | Attend 1|
+|8. Is banks legal/illegal | How to make money legal/illegal  | Attend 1|
+|9. Is bitcoin legal/illegal | How to make money legal/illegal  | Attend 1|
+|10. What is legal lie, bad lie, good lie | How to make money legal/illegal  | Attend 1|
+|10. What is legal truth, bad truth, good truth | How to make money legal/illegal  |Attend 1|
+|3. How to make lot of money legally/illegally | How to make money legal/illegal  | Attend 1 | 
+|3. How to make lot of money good way/bad way | How to make money legal/illegal  | Attend 1 |
+|3. Is banks legal/illegal | How to make money legal/illegal  | Attend 1|
 |3. In bitcoin nobody is working, but making money | Is it proper  | Attend 1, 2 |
 |3. They call bitcoin mining, is it not misleading | Should it be called minting? | Attend 1 | 
 |3. Can i launch my own coin. Easy money. | Is it Legal/illegal, proper/improper, variatons  | Attend 1,2 | 
