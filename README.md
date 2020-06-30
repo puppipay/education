@@ -50,7 +50,7 @@ Review of various factors/doubts we face as humans
 
 so on
 
-#### Education material
+#### 6. Education material
 
 | Product   |   Prereq |   Terms     |  Price |
 |---------- |:-------------:|:-------------:|------:|
@@ -59,10 +59,10 @@ so on
 |3. Disruption/hurricane/sec-laws | How to make money legal/illegal  | Pay in advance | 5000 Rs|
 
 
-#### Questions and it corresponding education
+#### 7. Questions you may have and its corresponding education
 
 | Question   |   Prereq |   Answer |
-|---------- |:-------------:|:-------------:|------:|
+|---------- |:-------------:|:------------|
 |1. Why truth-full earn less | Curious how money is created  |  Attend 1|
 |2. Why truth-full cannot earn more money | How to make money legal/illegal  | Attend 1|
 |3. Is telling lies good for economy | How to make money legal/illegal  | Attend 1|
@@ -74,9 +74,9 @@ so on
 |9. Is bitcoin legal/illegal | How to make money legal/illegal  | Attend 1|
 |10. What is legal lie, bad lie, good lie | How to make money legal/illegal  | Attend 1|
 |10. What is legal truth, bad truth, good truth | How to make money legal/illegal  |Attend 1|
-|3. How to make lot of money legally/illegally | How to make money legal/illegal  | Attend 1 | 
-|3. How to make lot of money good way/bad way | How to make money legal/illegal  | Attend 1 |
-|3. Is banks legal/illegal | How to make money legal/illegal  | Attend 1|
-|3. In bitcoin nobody is working, but making money | Is it proper  | Attend 1, 2 |
-|3. They call bitcoin mining, is it not misleading | Should it be called minting? | Attend 1 | 
-|3. Can i launch my own coin. Easy money. | Is it Legal/illegal, proper/improper, variatons  | Attend 1,2 | 
+|11. How to make lot of money legally/illegally | How to make money legal/illegal  | Attend 1 | 
+|12. How to make lot of money good way/bad way | How to make money legal/illegal  | Attend 1 |
+|13. Is banks legal/illegal | How to make money legal/illegal  | Attend 1|
+|14. In bitcoin nobody is working, but making money | Is it proper  | Attend 1, 2 |
+|15. They call bitcoin mining, is it not misleading | Should it be called minting? | Attend 1 | 
+|16. Can i launch my own coin. Easy money. | Is it Legal/illegal, proper/improper, variatons  | Attend 1,2 | 
