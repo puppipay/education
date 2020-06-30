@@ -40,7 +40,9 @@ Education is needed for us to live properly using known "knowledge".
 
 Review of various factors/doubts we face as humans
 
-- How salary can be increased. From where does the money come
+- How salary can be increased. 
+
+- From where does the money come from
 
 - How wealth is created
 
