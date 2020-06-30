@@ -1,5 +1,7 @@
 This is second standard bitcoin class
 
+Duration: 5 hrs
+
 
 ##### Chapter 1
 Basics of Bitcoin, Blockchain
